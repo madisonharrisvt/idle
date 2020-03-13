@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+html, body {
+  height: 100%;
+}
+
+.text-success-secondary {
+  color: #217b39;
+}
+
+.bg-success-secondary {
+  background-color: #217b39!important;
+}
+
+#tree {
+  border-bottom: 10px solid #28a745;
+}
