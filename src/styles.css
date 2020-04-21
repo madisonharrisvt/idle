@@ -11,6 +11,6 @@ html, body {
   background-color: #217b39!important;
 }
 
-#tree {
-  border-bottom: 10px solid #28a745;
+.tree {
+  border-bottom: 5px solid #28a745!important;
 }
